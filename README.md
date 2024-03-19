@@ -1,2 +1,2 @@
 # Mis-proyectos
-Proyectos personales
+Proyectos personales. Prácticas y proyectos a fin de demostrar mis habilidades técnicas.
